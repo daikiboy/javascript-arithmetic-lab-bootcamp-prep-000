@@ -13,6 +13,6 @@ function divide(a, b) {
   return (a / b)
 }
 
-funtion inc(a) {
+function inc(a) {
   return (a++)
 }
