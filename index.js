@@ -13,8 +13,6 @@ function divide(a, b) {
   return (a / b)
 }
 
-var number = n 
-
 function inc(n++) {
   return (n)
 }
